@@ -1,0 +1,93 @@
+{
+  ".coveragerc": {
+    "coverage": "1oMxRSjy3umy6fm2GLeARBK/ifgGQFYUlN/8LGKbxOIna5IY3Xo8bTn0w5F2nMpPiZ9+ZmnxqNPtxVoehylzaQ=="
+  },
+  ".gitignore": {
+    "git": "wQNzcDz5j9YSFmGrRaVDQ6oAShaSQi+wfYLmnsuPqHWHbjTAbvSKA89Cq76xl1ECs36cfUlqwYVDd9a4xyUHpg=="
+  },
+  ".gitlab-ci.yml": {},
+  ".pypirc": {
+    "pypi.serverdescr": "Xwmy6dIeZ8dRPhYNKBwoBU+vXof53eeATlBeDYhO3dbdM2nu5f+i7KADpDKewMsy4vaw07SlvZcvrkNxIQGdOw==",
+    "pypi.serverlist": "BGltL3W0iQd15DvEGmiS0N1SxLtu7rF4EZH1YZjfi7ct3IwdAvMuRVdebtxnsCAas/tgs29gbmyZA06lW7hzQg=="
+  },
+  "AUTHORS.rst": {
+    "doc.authors": "CIZkQBdlcbMQ9cjSOmeElRpm2/KH1i1eeu+bmkOzpRxmTlWNul454HsEnhwthJM/PhvJZjni3riRiY1lm18Ehw==",
+    "doc.contributors": "3upMR8hqICIyXfJQBUtVQb/y+GY+oBOpKPZ4BZqVul8v92ce0lmu9qE4pvCEEhEBkiqJGklZpRLPT7Cmm4+R5Q=="
+  },
+  "CONTRIBUTING.rst": {},
+  "HISTORY.rst": {},
+  "LICENSE": {
+    "license": "21ExMhSzB2uXQuU1VoH7++nrb4u6TbesqGtJDpM39OLPWft9SJ2tJ956R6foYmkI9VuJay7SUrhFLPxxMEHLxg=="
+  },
+  "MANIFEST.in": {
+    "pysetup": "bsTuo9jLOTP437tQI8ALB3RNBBB8hHV8U6CX/gWySQqmICz21T0KY2ZAZVLW91vKWBMrTtzNkw89kCbClAzAHw=="
+  },
+  "README.rst": {
+    "doc": "3v6zmCNEi+86x08dR1ZxXLvPyNqNq3wuKrz4laobRaJBOhbJ0DX6rVh40Q5AffDdj9AnfCZwTue6qtsysROmZQ=="
+  },
+  "conda/meta.yaml": {
+    "conda.about": "ZvlCY3yfJy1aMgcHZ6shF6w99hdr72F4JhZ3oXapg8G1EM8NQRY5U7LQaLpULBY3qEMU/oF/649acQ8xZ0uv4Q==",
+    "conda.package": "kVyMTFbynYFtYWy3/pfPn+9lBY5zPoQDxVC+h3BfC6XzXts4QUM6p8RIyCel0KLPgQgNkkXZW4TjdtKARXerOg==",
+    "conda.src": "HrwSleFu4NbgkAAkAfKBpsU5jaVQ83sYumDl1fUALX04VYq8s0OexqOusF2UQ/BxfHXQWGQEQ/0OBDbmkNE0Aw=="
+  },
+  "doc/Makefile": {
+    "sphinx": "C58jxdu8XJNOoaWOw7VWy4LwFmS8lTQt/JeZLt5JozMSJ503plOZchucx+vAEzELbx/Czs/h9pshe9s+9HeOeQ=="
+  },
+  "doc/_static/nonempty.txt": {},
+  "doc/authors.rst": {},
+  "doc/biblio/nonempty.txt": {},
+  "doc/conf.py": {
+    "sphinx": "TsJWoYZRroT0ooBdQUwY7cG9VzaEWcNcmdzY1YWUqDmogvasMvtoLKG/QsDQ/+5ZATAfcxm9sRxkQpHRY17E2w=="
+  },
+  "doc/contributing.rst": {},
+  "doc/history.rst": {},
+  "doc/index.rst": {},
+  "doc/installation.rst": {},
+  "doc/make.bat": {
+    "sphinx": "oA67PK7JSR3w9u1V0gOXFZAb8qgfgUJ0wQ46cVXu7M3iJyAbLf76WkEqw6Y1r5Q6EvHAogcjmImdGsOpiYZ22g=="
+  },
+  "doc/readme.rst": {},
+  "doc/usage.rst": {},
+  "dvlpt_requirements.txt": {
+    "pysetup": "w/jubcbjptbUe71YYdMz7jUFrcGtxeEb+Eae2l19H1ES5VecyIWjuquehwY2gsEVOWkfB2Ens7xNtMtCZu5foQ=="
+  },
+  "dvlpt_requirements.yml": {
+    "conda": "E5D/lppDNImj8GJuQlS/TZGdYG95eqfyVRZoPGXwYQ/s0FrvGii2cD5Jj8RxsG55byYvPmkD2Ir0rU2jjjfJRg=="
+  },
+  "example/nonempty.txt": {},
+  "requirements.txt": {
+    "pysetup": "ZEhoRCZAg2dnR/Qt46HfigmDTQcKqQuJ14iyGgUfBoBb5+4faqpaLunBgGVmeB4oCj36f0sQUeDOfrKBGW2FQA=="
+  },
+  "requirements.yml": {
+    "conda": "iiYBIA6l0aomK1yz+Qqm2Oz983QYmJPKS0yOs4TLMsF/C2xVxHp2U6ANRWZEJY9wQl0BoxjAc2ehKvHWfFlFYQ=="
+  },
+  "setup.cfg": {
+    "pysetup": "ykAsCsf3SqYUYuJl0OmfKHq+lfLegwBFLSX2qWN1NTnIYzGqGk+RmKyx+bYZ8VSNKAlSvMqFWCCBF3cGWFFUSg=="
+  },
+  "setup.py": {
+    "pysetup.call": "2wHuP94SpWKZpqOzExkQGTxnhGPgBHK3qOdPn0Ncstj5FkZ7FBGGM/inqAXaI4QLKQtTNlOUYRGSkYUWAUcf1w==",
+    "pysetup.kwds": "OHnLWfZXqhSZyUqp9exOESVcjft1u7O0y16YsYZUJ/PVBCiFlvtleZ99SwMoaD+u5axs4P+BIzwoJtxB4I185A=="
+  },
+  "src/itkpkg/__init__.py": {
+    "base": "gR33dW0qqYmsV9NSNB+DD8XmuxnC2t0mKjnMoU5728qh97fSER6MbX+3QKxpZDLByZToaAay4xhx8acxketJmA=="
+  },
+  "src/itkpkg/config.py": {},
+  "src/itkpkg/data_access.py": {
+    "data": "zLxNflVGrpcx16dVTchQCKkV0MKvKzB1EqlleajQfewrf0Nueeh8dmZKzbN4jdMMe5VZOAM4gsiQ0nDjiZTNrQ=="
+  },
+  "src/itkpkg/handlers.py": {},
+  "src/itkpkg/version.py": {
+    "version": "TuKawEled8JWYNA5c5kHNJT14JklhrYCe9pM6H7ys7gZ+xrlq1IqV2ptpv0paKp1cJNv5RgfQprxyebLG5iP/g=="
+  },
+  "src/itkpkg_data/__init__.py": {},
+  "src/oapkg/__init__.py": {
+    "base": "gR33dW0qqYmsV9NSNB+DD8XmuxnC2t0mKjnMoU5728qh97fSER6MbX+3QKxpZDLByZToaAay4xhx8acxketJmA=="
+  },
+  "src/oapkg/config.py": {},
+  "src/oapkg/handlers.py": {},
+  "src/oapkg/version.py": {
+    "version": "aGR9qla1fyGhLg8qbPxMwcw5HkORgqadocMi8iqtvcF0GT2TuY3nfzBgz/NRb/lfTDVr+7jmYuveDeaY07vBqg=="
+  },
+  "test/__init__.py": {},
+  "test/test_packaging.py": {}
+}

@@ -1,0 +1,95 @@
+{
+  "_pkglts": {
+    "auto_install": true,
+    "install_front_end": "stdout",
+    "use_prompts": false,
+    "version": 11
+  },
+  "base": {
+    "authors": [
+      [
+        "revesansparole",
+        "revesansparole@gmail.com"
+      ]
+    ],
+    "namespace": null,
+    "namespace_method": "pkg_util",
+    "pkgname": "oapkg",
+    "url": null
+  },
+  "conda": {},
+  "coverage": {},
+  "data": {
+    "filetype": [
+      ".csv",
+      ".ini",
+      ".json",
+      ".rst",
+      ".tpl",
+      ".txt",
+      ".yml"
+    ],
+    "use_ext_dir": false
+  },
+  "doc": {
+    "description": "Default template for openalea packages.",
+    "fmt": "rst",
+    "keywords": [
+      "openalea"
+    ]
+  },
+  "git": {},
+  "github": {
+    "owner": "{{ base.authors[0][0] }}",
+    "project": "{{ base.pkgname }}",
+    "url": "https://github.com/{{ github.owner }}/{{ github.project }}"
+  },
+  "oapkg": {
+    "simulator": false
+  },
+  "license": {
+    "name": "CeCILL-C",
+    "organization": "openalea",
+    "project": "{{ base.pkgname }}",
+    "year": 2017
+  },
+  "plugin_project": {
+    "plugin_name": "{{ base.pkgname }}"
+  },
+  "pypi": {
+    "classifiers": [
+      "Development Status :: 2 - Pre-Alpha",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: BSD License",
+      "Natural Language :: English"
+    ],
+    "servers": {
+      "pypi": {
+        "url": "https://upload.pypi.org/legacy/"
+      },
+      "test": {
+        "url": "https://testpypi.python.org/pypi"
+      }
+    }
+  },
+  "pysetup": {
+    "intended_versions": [
+      "27",
+      "36"
+    ],
+    "require": []
+  },
+  "sphinx": {
+    "autodoc_dvlpt": true,
+    "build_dir": "build/sphinx",
+    "theme": "sphinx_rtd_theme"
+  },
+  "test": {
+    "suite_name": "pytest"
+  },
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "post": 0
+  }
+}
