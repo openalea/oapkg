@@ -44,14 +44,14 @@
     "project": "{{ base.pkgname }}",
     "url": "https://github.com/{{ github.owner }}/{{ github.project }}"
   },
-  "oapkg": {
-    "simulator": false
-  },
   "license": {
     "name": "CeCILL-C",
     "organization": "openalea",
     "project": "{{ base.pkgname }}",
     "year": 2017
+  },
+  "oapkg": {
+    "simulator": false
   },
   "plugin_project": {
     "plugin_name": "{{ base.pkgname }}"
@@ -79,6 +79,9 @@
     ],
     "require": []
   },
+  "readthedocs": {
+    "project": "{{ github.project }}"
+  },
   "sphinx": {
     "autodoc_dvlpt": true,
     "build_dir": "build/sphinx",
@@ -87,6 +90,7 @@
   "test": {
     "suite_name": "pytest"
   },
+  "travis": {},
   "version": {
     "major": 0,
     "minor": 1,

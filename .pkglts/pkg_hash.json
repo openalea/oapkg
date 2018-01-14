@@ -10,9 +10,16 @@
     "pypi.serverdescr": "Xwmy6dIeZ8dRPhYNKBwoBU+vXof53eeATlBeDYhO3dbdM2nu5f+i7KADpDKewMsy4vaw07SlvZcvrkNxIQGdOw==",
     "pypi.serverlist": "BGltL3W0iQd15DvEGmiS0N1SxLtu7rF4EZH1YZjfi7ct3IwdAvMuRVdebtxnsCAas/tgs29gbmyZA06lW7hzQg=="
   },
+  ".travis.yml": {
+    "travis": "qfBJIVni5lu88G6RNc70u9Z+1NUkKfvbyAy6bUG77z2c3StIWDb2Wrm+WOelQLzdLVQ6LwEi0wu2BCzyX+xbaA==",
+    "travis.addons": "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==",
+    "travis.after": "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg==",
+    "travis.install": "HTwu5QVUpjD37gii5o1NEvw5JxVlkR4X3xl6YsS2JYn/wzks5Io9oSFsyErpkZo7ZY5AQwBX3vsy6+RpMuJATg==",
+    "travis.script": "DuMVu20DK3x0WVdVZxihdiYnEkfDqmOlMUuCHohyYvi4fv3Ew8OeAca6AdKM/ZCSZvVS9tywx+PhPrmDexl6hg=="
+  },
   "AUTHORS.rst": {
     "doc.authors": "CIZkQBdlcbMQ9cjSOmeElRpm2/KH1i1eeu+bmkOzpRxmTlWNul454HsEnhwthJM/PhvJZjni3riRiY1lm18Ehw==",
-    "doc.contributors": "3upMR8hqICIyXfJQBUtVQb/y+GY+oBOpKPZ4BZqVul8v92ce0lmu9qE4pvCEEhEBkiqJGklZpRLPT7Cmm4+R5Q=="
+    "doc.contributors": "UYkFEYiJSXLzSbq58sZMrcT7EshjsFW56pYVxt5bgQWOvoAMsA2A+vUSOlLiXfzzmgeQ7xnhcfkKbCr969GZkg=="
   },
   "CONTRIBUTING.rst": {},
   "HISTORY.rst": {},
@@ -23,7 +30,7 @@
     "pysetup": "bsTuo9jLOTP437tQI8ALB3RNBBB8hHV8U6CX/gWySQqmICz21T0KY2ZAZVLW91vKWBMrTtzNkw89kCbClAzAHw=="
   },
   "README.rst": {
-    "doc": "3v6zmCNEi+86x08dR1ZxXLvPyNqNq3wuKrz4laobRaJBOhbJ0DX6rVh40Q5AffDdj9AnfCZwTue6qtsysROmZQ=="
+    "doc": "O8e0QXIcwkfCiBgm21ptGtx/tN0srsGfJEspsLRjZV8ks0fkPXndonRs81QECGmIsvYvNYeUaqN7WXLHP1RyFQ=="
   },
   "conda/meta.yaml": {
     "conda.about": "ZvlCY3yfJy1aMgcHZ6shF6w99hdr72F4JhZ3oXapg8G1EM8NQRY5U7LQaLpULBY3qEMU/oF/649acQ8xZ0uv4Q==",
