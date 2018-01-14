@@ -5,10 +5,9 @@ Installation
 For Users
 =========
 
-The easiest method is to directly install the package hosted on PyPI. You will be
-prompted for username and password which correspond to your LDAP::
+The easiest method is to directly install the package hosted on PyPI::
 
-    $ pip install itkpkg --trusted-host nexus3.lan.itkweb.fr --index-url http://nexus3.lan.itkweb.fr/repository/agropy/simple
+    $ pip install oapkg
 
 For Developers
 ==============
@@ -30,18 +29,16 @@ Download (or clone) the source and then, at the command line::
 
 
 If conda fails to install a package, it usually means that one of the required
-package cannot be installed with conda. Please refer to
-`How to use conda <http://agro.pages.itkweb.fr/doc/use/conda/index.html>`_ to
-learn how to install packages in a conda environment. There is three possibilities:
+package cannot be installed with conda. There is three possibilities:
 
- - the package is developed by itk: follow instruction associated to the package
-   that can be found on agrodoc_
+ - the package is developed by the openalea community: follow instruction associated to the package
+   that can be found on openalea_
  - the package is an external package: try using pip to install it instead of
    conda.
  - the package is not available on the default channel. You can try using a less
    esoteric package next time :)
 
-.. _agrodoc: http://agro.pages.itkweb.fr/doc/
+.. _openalea: http://virtualplants.github.io/
 
 Run test suite
 --------------

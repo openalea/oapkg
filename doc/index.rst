@@ -1,5 +1,5 @@
 
-Welcome to itkpkg's documentation!
+Welcome to oapkg's documentation!
 ====================================================
 
 Contents:
@@ -32,9 +32,9 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Back to Agrodoc home page.
+Back to OpenAlea home page.
 
 .. toctree::
     :maxdepth: 1
 
-    AgroDoc <http://agro.pages.itkweb.fr/doc/index.html>
+    OpenAlea <http://virtualplants.github.io/>
