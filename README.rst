@@ -1,5 +1,5 @@
 ========================
-itkpkg
+oapkg
 ========================
 
 .. {# pkglts, doc
@@ -21,5 +21,5 @@ itkpkg
 
 .. #}
 
-Implement default options for python packages as defined on agrodoc.
+Default template for openalea packages.
 
