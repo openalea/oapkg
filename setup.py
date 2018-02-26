@@ -88,11 +88,7 @@ setup_kwds = dict(
 # change setup_kwds below before the next pkglts tag
 
 setup_kwds['entry_points']['pkglts'] = [
-    'oapkg.root = oapkg',
-    'oapkg.update_parameters = oapkg.config:update_parameters',
-    'oapkg.check = oapkg.config:check',
-    'oapkg.require = oapkg.config:require',
-    'oapkg.environment_extensions = oapkg.handlers:environment_extensions',
+    'oapkg = oapkg.option:OptionOapkg',
 ]
 
 # do not change things below
